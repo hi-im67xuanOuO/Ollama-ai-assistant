@@ -1,7 +1,7 @@
 # Ollama-AI-Assistant : An contextual conversational AI assistants
 
 ### Screenshot
-
+![Screenshot](https://github.com/hi-im67xuanOuO/Ollama-ai-assistant/blob/main/demo.png)
 
 
 ## Tools and Environment
